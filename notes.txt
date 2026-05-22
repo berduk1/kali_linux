@@ -2,15 +2,34 @@
 
 ## Commands practiced
 
-- pwd
-- ls
-- cd
-- mkdir
-- nano
-- cat
-- ip a
-- ping
-- ss -tuln
+## Basic Linux Commands
+
+### pwd
+Shows the current working directory. Useful for knowing where I am in the filesystem.
+
+### ls
+Lists files and folders. Useful for checking the contents of a directory.
+
+### cd
+Changes directory. Useful for navigating the Linux filesystem.
+
+### mkdir
+Creates a new directory. Useful for organizing project files.
+
+### nano
+Opens a simple terminal text editor. Useful for writing notes and editing files.
+
+### cat
+Displays the contents of a file. Useful for quickly checking notes or configuration files.
+
+### ip a
+Shows network interfaces and IP addresses. Useful for understanding the machine's network configuration.
+
+### ping
+Tests network connectivity. Useful for checking if another host or website is reachable.
+
+### ss -tuln
+Shows listening TCP and UDP ports. Useful for checking which services are exposed on the system.
 
 ## What I learned
 
