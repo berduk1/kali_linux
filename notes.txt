@@ -1,0 +1,17 @@
+# Linux Basics Lab
+
+## Commands practiced
+
+- pwd
+- ls
+- cd
+- mkdir
+- nano
+- cat
+- ip a
+- ping
+- ss -tuln
+
+## What I learned
+
+Today I practiced basic Linux terminal commands in Kali Linux.
